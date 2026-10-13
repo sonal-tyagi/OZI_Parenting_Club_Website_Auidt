@@ -4,7 +4,7 @@ A website audit of [ozi.in](https://ozi.in), a quick-commerce platform for baby 
 
 **Presented by:** Sonal Tyagi
 **Audit date:** October 2026
-**File:** [`OZI_website_audit.pdf`](./OZI_website_audit.pdf)
+**File:** [`Ozi Website Audit.pdf`](./Ozi%20Website%20Audit.pdf)
 
 > **Note:** All observations are based on the website as it appeared in **October 2026**. The website may have been updated since then, so some issues may already be fixed or no longer relevant.
 
